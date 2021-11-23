@@ -1,11 +1,12 @@
 * {
     box-sizing: border-box;
+    background: white;
 }
 
 body {
-  background: #0096FF;
+  background: white;
   font-family: 'adobe clean';
-  margin: 0;
+  margin: 500;
 }
 
 .hero {
